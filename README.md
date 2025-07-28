@@ -74,8 +74,3 @@ sudo python3 GUI_Firewall.py
 
 ## bash
 sudo python3 audit.py
-
-
-## 🙌 Acknowledgements
-
-Special thanks to my mentors and internship organization for their support and guidance throughout the development of these tools.
